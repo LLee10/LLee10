@@ -1,5 +1,5 @@
 - 👋 Hi, I’m LiLing
 - 👀 I’m working in Genomics (Bioinformatics)
-- 🌱 I’m currently learning several command line tools such as copy number variants
+- 🌱 I’m currently learning several command line tools
 - 💞️ I’m looking to collaborate on genomic research projects
 - 📫 Reach me through direct message
