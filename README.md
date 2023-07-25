@@ -1,5 +1,5 @@
 - 👋 Hi, I’m LiLing
 - 👀 I’m working in Genomics (Bioinformatics)
-- 🌱 I’m currently learning several command line tools
-- 💞️ I’m looking to collaborate on genomic research projects
+- 🌱 Member of Women Who Code 
+- 💞️ I’m looking to collaborate on genomic projects
 - 📫 Reach me through direct message
